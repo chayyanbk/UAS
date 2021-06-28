@@ -6,8 +6,8 @@
 <body>
  
 <div class="header">
- <h1>My Blog</h1>
- <p>Mari Berbagi Cerita</p>
+ <h1>Kabar Berita Terkini</h1>
+ <p>Covid-19</p>
 </div>
 <?php require "koneksi.php"; ?>
 <!-- Menampikan kolom sebelah kiri -->
