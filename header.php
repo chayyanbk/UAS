@@ -9,7 +9,7 @@
  <h1>My Blog</h1>
  <p>Mari Berbagi Cerita</p>
 </div>
- 
+<?php require "koneksi.php"; ?>
 <!-- Menampikan kolom sebelah kiri -->
 <div class="row">
  <div class="leftcolumn">
